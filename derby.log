@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Mon Jun 22 15:03:24 MDT 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-ddd7-c183-0000039935d8 
+on database directory memory:C:\Users\curtb\Desktop\bootcamp\projects\quotes-service\4e8b5852-ee28-4643-8ba8-7e09279f51e0 with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/curtb/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Amazon.com Inc.
+java.runtime.version=1.8.0_252-b09
+user.dir=C:\Users\curtb\Desktop\bootcamp\projects\quotes-service
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
